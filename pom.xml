@@ -4,8 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>dockerdemo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>Dockerdemo</artifactId>
 	<packaging>jar</packaging>
 
 	<name>dockerdemo</name>
